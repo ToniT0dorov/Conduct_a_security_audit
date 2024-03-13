@@ -18,13 +18,12 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <h2>Supporting materials</h2>
 
-- <b>Botium Toys: Scope, goals, and risk assessment
+- [Botium Toys: Scope, goals, and risk assessment ](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
+- [Control categories ](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
 
-report</b> 
 
-- <b>Diskpart</b>
 
-<h2>Environments Used </h2>
+<h2>Conduct the audit: Controls and compliance checklist </h2>
 
 - <b>Windows 10</b> (21H2)
 
