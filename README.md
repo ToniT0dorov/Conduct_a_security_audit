@@ -25,16 +25,25 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <h2>Conduct the audit: Controls and compliance checklist for Botium Toys </h2>
 <h3>Controls assessment checklist</h3>
-Select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place?<table width="673" cellpadding="7" cellspacing="0">
+<p align="left">
+    Select  “yes” or “no” to answer the question:
+    <em>
+        Does  Botium Toys currently have this control in place?
+    </em>
+</p>
+<p align="left">
+    <strong>Controls  assessment checklist</strong>
+</p>
+<table width="720" cellpadding="7" cellspacing="0">
     <colgroup>
-        <col width="45"/>
+        <col width="51"/>
         <col width="49"/>
         <col width="221"/>
-        <col width="300"/>
+        <col width="341"/>
     </colgroup>
     <tbody>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
                 <p align="right">
                     <strong>Yes</strong>
                 </p>
@@ -49,14 +58,14 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     <strong>Control</strong>
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em><strong>Explanation</strong></em>
                 </p>
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -68,7 +77,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Least                          Privilege
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         Currently,                          all employees have
@@ -79,7 +88,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -91,7 +100,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Disaster                          recovery plans
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         There                          are no disaster recovery
@@ -102,7 +111,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -114,7 +123,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Password                          policies
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         Employee                          password requirements
@@ -127,7 +136,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -139,7 +148,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Separation                          of duties
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         Needs                          to be implemented to
@@ -152,7 +161,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
                 <p align="justify">
                     ✔️
                 </p>
@@ -164,7 +173,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Firewall
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         The                          existing firewall blocks
@@ -175,17 +184,17 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
             </td>
             <td width="221">
             </td>
-            <td width="300">
+            <td width="341">
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -197,7 +206,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Intrusion                          detection system (IDS)
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         The                          IT department needs an IDS
@@ -208,7 +217,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -220,7 +229,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Backups
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         The                          IT department needs to have
@@ -231,7 +240,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
                 <p align="justify">
                     ✔️
                 </p>
@@ -243,7 +252,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Antivirus                          software
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         Antivirus                          software is installed
@@ -254,7 +263,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -267,7 +276,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     intervention for legacy systems
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         The                          list of assets notes the
@@ -283,7 +292,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -295,7 +304,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Encryption
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         Encryption                          is not currently
@@ -306,7 +315,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
             </td>
             <td width="49">
                 <p align="justify">
@@ -318,7 +327,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     Password                          management system
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         There                          is no password management
@@ -330,7 +339,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
                 <p align="justify">
                     ✔️
                 </p>
@@ -343,7 +352,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     warehouse)
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         The                          store’s physical location,
@@ -355,7 +364,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
                 <p align="justify">
                     ✔️
                 </p>
@@ -368,7 +377,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     surveillance
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         CCTV                          is installed/functioning
@@ -378,7 +387,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
         <tr valign="top">
-            <td width="45">
+            <td width="51">
                 <p align="justify">
                     ✔️
                 </p>
@@ -391,7 +400,7 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
                     alarm, sprinkler system, etc.)
                 </p>
             </td>
-            <td width="300">
+            <td width="341">
                 <p align="left">
                     <em>
                         Botium                          Toys’ physical location
@@ -402,4 +411,430 @@ Select “yes” or “no” to answer the question: Does Botium Toys currently 
             </td>
         </tr>
     </tbody>
-</table>**
+</table>
+<p align="left">
+    <strong>Compliance  checklist</strong>
+</p>
+<p align="left">
+    Select  “yes” or “no” to answer the question:
+    <em>
+        Does  Botium Toys currently adhere to this compliance best practice?
+    </em>
+</p>
+<p align="left">
+    <u>Payment  Card Industry Data Security Standard (PCI DSS)</u>
+</p>
+<table width="703" cellpadding="7" cellspacing="0">
+    <colgroup>
+        <col width="37"/>
+        <col width="55"/>
+        <col width="228"/>
+        <col width="325"/>
+    </colgroup>
+    <tbody>
+        <tr valign="top">
+            <td width="37">
+                <p align="justify">
+                    <strong>Yes</strong>
+                </p>
+            </td>
+            <td width="55">
+                <p align="center">
+                    <strong>No</strong>
+                </p>
+            </td>
+            <td width="228">
+                <p align="left">
+                    <strong>Best                          practice</strong>
+                </p>
+            </td>
+            <td width="325">
+                <p align="left">
+                    <em><strong>Explanation</strong></em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="37">
+            </td>
+            <td width="55">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="228">
+                <p align="left">
+                    Only                          authorized users have access
+                    to customers’ credit card
+                    information.
+                </p>
+            </td>
+            <td width="325">
+                <p align="left">
+                    <em>
+                        Currently,                          all employees have
+                        access to the company’s internal data.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="37">
+            </td>
+            <td width="55">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="228">
+                <p align="left">
+                    Credit                          card information is
+                    accepted, processed, transmitted, and stored
+                    internally, in a secure environment.
+                </p>
+            </td>
+            <td width="325">
+                <p align="left">
+                    <em>
+                        Credit                          card information is not
+                        encrypted and all employees currently have
+                        access to internal data, including customers’ credit
+                        card                          information.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="37">
+            </td>
+            <td width="55">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="228">
+                <p align="left">
+                    Implement                          data encryption
+                    procedures to better secure credit card
+                    transaction touchpoints and data.
+                </p>
+            </td>
+            <td width="325">
+                <p align="left">
+                    <em>
+                        The                          company does not currently
+                        use encryption to better ensure the
+                        confidentiality of customers’ financial information.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="37">
+            </td>
+            <td width="55">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="228">
+                <p align="left">
+                    Adopt                          secure password management
+                    policies.
+                </p>
+            </td>
+            <td width="325">
+                <p align="left">
+                    <em>
+                        Password                          policies are nominal
+                        and no password management system is
+                        currently in place.
+                    </em>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p align="left">
+    <u>General  Data Protection Regulation (GDPR)</u>
+</p>
+<table width="685" cellpadding="7" cellspacing="0">
+    <colgroup>
+        <col width="45"/>
+        <col width="49"/>
+        <col width="227"/>
+        <col width="306"/>
+    </colgroup>
+    <tbody>
+        <tr valign="top">
+            <td width="45">
+                <p align="center">
+                    <strong>Yes</strong>
+                </p>
+            </td>
+            <td width="49">
+                <p align="left">
+                    <strong>No</strong>
+                </p>
+            </td>
+            <td width="227">
+                <p align="left">
+                    <strong>Best                          practice</strong>
+                </p>
+            </td>
+            <td width="306">
+                <p align="left">
+                    <em><strong>Explanation</strong></em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="227">
+                <p align="left">
+                    E.U.                          customers’ data is kept
+                    private/secured.
+                </p>
+            </td>
+            <td width="306">
+                <p align="left">
+                    <em>
+                        The                          company does not currently
+                        use encryption to better ensure the
+                        confidentiality of customers’ financial information.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="227">
+                <p align="left">
+                    There                          is a plan in place to notify
+                    E.U. customers within 72 hours if
+                    their data is compromised/there is a breach.
+                </p>
+            </td>
+            <td width="306">
+                <p align="left">
+                    <em>
+                        There                          is a plan to notify E.U.
+                        customers within 72 hours of a data
+                        breach.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="center">
+                    ✔️
+                </p>
+            </td>
+            <td width="227">
+                <p align="left">
+                    Ensure                          data is properly classified
+                    and inventoried.
+                </p>
+            </td>
+            <td width="306">
+                <p align="left">
+                    <em>
+                        Current                          assets have been
+                        inventoried/listed, but not classified.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="center">
+                    ✔️️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="227">
+                <p align="left">
+                    Enforce                          privacy policies,
+                    procedures, and processes to properly document
+                    and maintain data.
+                </p>
+            </td>
+            <td width="306">
+                <p align="left">
+                    <em>
+                        Privacy                          policies, procedures,
+                        and processes have been developed and
+                        enforced among IT team members and other employees, as
+                        needed.
+                    </em>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p align="left">
+    <u>System  and Organizations Controls (SOC type 1, SOC type 2)</u>
+</p>
+<table width="679" cellpadding="7" cellspacing="0">
+    <colgroup>
+        <col width="47"/>
+        <col width="47"/>
+        <col width="239"/>
+        <col width="288"/>
+    </colgroup>
+    <tbody>
+        <tr valign="top">
+            <td width="47">
+                <p align="right">
+                    <strong>Yes</strong>
+                </p>
+            </td>
+            <td width="47">
+                <p align="center">
+                    <strong>No</strong>
+                </p>
+            </td>
+            <td width="239">
+                <p align="left">
+                    <strong>Best                          practice</strong>
+                </p>
+            </td>
+            <td width="288">
+                <p align="left">
+                    <em><strong>Explanation</strong></em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="47">
+            </td>
+            <td width="47">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="239">
+                <p align="left">
+                    User                          access policies are
+                    established.
+                </p>
+            </td>
+            <td width="288">
+                <p align="left">
+                    <em>
+                        Controls                          of Least Privilege and
+                        separation of duties are not currently in
+                        place; all employees have access to internally stored
+                        data.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="47">
+            </td>
+            <td width="47">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="239">
+                <p align="left">
+                    Sensitive                          data (PII/SPII) is
+                    confidential/private.
+                </p>
+            </td>
+            <td width="288">
+                <p align="left">
+                    <em>
+                        Encryption                          is not currently
+                        used to better ensure the confidentiality of
+                        PII/SPII.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="47">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="47">
+            </td>
+            <td width="239">
+                <p align="left">
+                    Data                          integrity ensures the data is
+                    consistent, complete, accurate, and
+                    has been validated.
+                </p>
+            </td>
+            <td width="288">
+                <p align="left">
+                    <em>
+                        Data                          integrity is in place.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="47">
+            </td>
+            <td width="47">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="239">
+                <p align="left">
+                    Data                          is available to individuals
+                    authorized to access it.
+                </p>
+            </td>
+            <td width="288">
+                <p align="left">
+                    <em>
+                        While                          data is available to all
+                        employees, authorization needs to be
+                        limited to only the individuals who need access to it to
+                        do their                          jobs.
+                    </em>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p align="left">
+    <em>
+        Multiple  controls need to be implemented to improve Botium Toys’
+        security  posture and better ensure the confidentiality of sensitive
+        information, including: Least Privilege, disaster recovery plans,
+        password policies, separation of duties, an IDS, ongoing legacy  system
+        management, encryption, and a password management system.
+    </em>
+</p>
+<p align="left">
+    <em>
+        To  address gaps in compliance, Botium Toys needs to implement controls
+        such as Least Privilege, separation of duties, and encryption. The
+        company also needs to properly classify assets, to identify  additional
+        controls that may need to be implemented to improve their  security
+        posture and better protect sensitive information.
+    </em>
+</p>
