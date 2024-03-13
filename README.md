@@ -23,47 +23,383 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 
 
-<h2>Conduct the audit: Controls and compliance checklist </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h2>Conduct the audit: Controls and compliance checklist for Botium Toys </h2>
+<h3>Controls assessment checklist</h3>
+Select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place?<table width="673" cellpadding="7" cellspacing="0">
+    <colgroup>
+        <col width="45"/>
+        <col width="49"/>
+        <col width="221"/>
+        <col width="300"/>
+    </colgroup>
+    <tbody>
+        <tr valign="top">
+            <td width="45">
+                <p align="right">
+                    <strong>Yes</strong>
+                </p>
+            </td>
+            <td width="49">
+                <p align="center">
+                    <strong>No</strong>
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    <strong>Control</strong>
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em><strong>Explanation</strong></em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Least                          Privilege
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        Currently,                          all employees have
+                        access to customer data; privileges need to be
+                        limited to reduce the risk of a breach.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Disaster                          recovery plans
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        There                          are no disaster recovery
+                        plans in place. These need to be
+                        implemented to ensure business continuity.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Password                          policies
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        Employee                          password requirements
+                        are minimal, which could allow a threat
+                        actor to more easily access secure data/other assets via
+                        employee                          work equipment/the
+                        internal network.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Separation                          of duties
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        Needs                          to be implemented to
+                        reduce the possibility of fraud/access to
+                        critical data, since the company CEO currently runs
+                        day-to-day                          operations and
+                        manages the payroll.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="221">
+                <p align="left">
+                    Firewall
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        The                          existing firewall blocks
+                        traffic based on an appropriately defined
+                        set of security rules.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+            </td>
+            <td width="221">
+            </td>
+            <td width="300">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Intrusion                          detection system (IDS)
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        The                          IT department needs an IDS
+                        in place to help identify possible
+                        intrusions by threat actors.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Backups
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        The                          IT department needs to have
+                        backups of critical data, in the case
+                        of a breach, to ensure business continuity.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="221">
+                <p align="left">
+                    Antivirus                          software
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        Antivirus                          software is installed
+                        and monitored regularly by the IT
+                        department.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Manual                          monitoring, maintenance, and
+                    intervention for legacy systems
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        The                          list of assets notes the
+                        use of legacy systems. The risk
+                        assessment indicates that these systems are monitored
+                        and                          maintained, but there is
+                        not a regular schedule in place for this
+                        task and procedures/ policies related to intervention
+                        are unclear,                          which could place
+                        these systems at risk of a breach.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Encryption
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        Encryption                          is not currently
+                        used; implementing it would provide greater
+                        confidentiality of sensitive information.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+            </td>
+            <td width="49">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="221">
+                <p align="left">
+                    Password                          management system
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        There                          is no password management
+                        system currently in place; implementing
+                        this control would improve IT department/other employee
+                        productivity in the case of password issues.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="221">
+                <p align="left">
+                    Locks                          (offices, storefront,
+                    warehouse)
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        The                          store’s physical location,
+                        which includes the company’s main
+                        offices, store front, and warehouse of products, has
+                        sufficient                          locks.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="221">
+                <p align="left">
+                    Closed-circuit                          television (CCTV)
+                    surveillance
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        CCTV                          is installed/functioning
+                        at the store’s physical location.
+                    </em>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="45">
+                <p align="justify">
+                    ✔️
+                </p>
+            </td>
+            <td width="49">
+            </td>
+            <td width="221">
+                <p align="left">
+                    Fire                          detection/prevention (fire
+                    alarm, sprinkler system, etc.)
+                </p>
+            </td>
+            <td width="300">
+                <p align="left">
+                    <em>
+                        Botium                          Toys’ physical location
+                        has a functioning fire detection and
+                        prevention system.
+                    </em>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>**
