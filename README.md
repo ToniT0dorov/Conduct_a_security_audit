@@ -23,7 +23,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 
 
-<h2>Conduct the audit: Controls and compliance checklist for Botium Toys </h2>
+<h2>Conducting the audit: Controls and compliance checklist for Botium Toys </h2>
 <h3>Controls assessment checklist</h3>
 <p align="left">
     Select  “yes” or “no” to answer the question:
