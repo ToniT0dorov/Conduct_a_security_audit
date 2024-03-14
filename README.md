@@ -80,9 +80,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        Currently,                          all employees have
-                        access to customer data; privileges need to be
-                        limited to reduce the risk of a breach.
+                        Presently, every employee has unrestricted access to customer data; however, it is imperative to curtail these privileges in order to mitigate the risk of a security breach.
                     </em>
                 </p>
             </td>
@@ -103,9 +101,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        There                          are no disaster recovery
-                        plans in place. These need to be
-                        implemented to ensure business continuity.
+                        Currently, there is a lack of disaster recovery plans. It is crucial to establish and implement these plans to safeguard business continuity.
                     </em>
                 </p>
             </td>
@@ -126,11 +122,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        Employee                          password requirements
-                        are minimal, which could allow a threat
-                        actor to more easily access secure data/other assets via
-                        employee                          work equipment/the
-                        internal network.
+                        The current employee password requirements are minimal, potentially enabling threat actors to more easily access secure data and other assets via employee work equipment or the internal network.
                     </em>
                 </p>
             </td>
@@ -176,9 +168,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        The                          existing firewall blocks
-                        traffic based on an appropriately defined
-                        set of security rules.
+                        The current firewall effectively filters network traffic using a well-defined set of security rules.
                     </em>
                 </p>
             </td>
@@ -209,9 +199,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        The                          IT department needs an IDS
-                        in place to help identify possible
-                        intrusions by threat actors.
+                        To enhance security, the IT department should implement an Intrusion Detection System (IDS) to proactively identify potential intrusions by threat actors.
                     </em>
                 </p>
             </td>
@@ -232,9 +220,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        The                          IT department needs to have
-                        backups of critical data, in the case
-                        of a breach, to ensure business continuity.
+                        To ensure business continuity, the IT department must maintain backups of critical data in the event of a breach.
                     </em>
                 </p>
             </td>
@@ -255,9 +241,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        Antivirus                          software is installed
-                        and monitored regularly by the IT
-                        department.
+                        The IT department ensures that antivirus software is installed and regularly monitored.
                     </em>
                 </p>
             </td>
@@ -279,14 +263,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
             <td width="341">
                 <p align="left">
                     <em>
-                        The                          list of assets notes the
-                        use of legacy systems. The risk
-                        assessment indicates that these systems are monitored
-                        and                          maintained, but there is
-                        not a regular schedule in place for this
-                        task and procedures/ policies related to intervention
-                        are unclear,                          which could place
-                        these systems at risk of a breach.
+                        The asset list acknowledges the utilization of legacy systems. Although these systems are monitored and maintained, there is no established regular schedule for these tasks, and the procedures and policies related to intervention remain unclear. This lack of clarity could potentially expose these systems to the risk of a breach.
                     </em>
                 </p>
             </td>
